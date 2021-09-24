@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abugamil
-- 👀 I’m interested in ML especially in deep learning and Coding (I love coding).
+- 👀 I’m interested in Coding (I love coding) and ML especially in deep learning.
 - 🌱 I’m currently learning Dialog state tracking and wav2wec
 - 📫 You can reach me by abugamil [at] gmail [dot] com
 
